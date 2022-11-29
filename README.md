@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ Sobre mim
 
-- 🔭Atualmente, trabalho como Analista de Atendimento na Indra.
+- 🔭Atualmente trabalho como Estagiário em uma empresa tech de pequeno porte.
 
-- 🌱 Estou aprendendo **Javascript e Angular**.
+- 🌱 Experiência profissional com **Javascript, Vue.Js, Node e outras Stacks**.
 
 - 👯 Busco colaborar em **Projetos OpenSource** e **atuar como dev. front-end**.
 
@@ -23,7 +23,7 @@
 ## 🚀Linguagens e Ferramentas
 
 <p align="left"> 
-    <a href="https://angular.io" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
+    <a href="https://vuejs.org" target="_blank"> <img src="https://icons8.com.br/icon/rY6agKizO9eb/vue-js"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
