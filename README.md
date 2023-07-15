@@ -5,16 +5,16 @@
  
 
 <h1 align="center">Olá, eu me chamo Miro.</h1>
-<h3 align="center">Sou um jovem aprendiz no mundo Desenvolvimento Web 👨🏻‍💻.</h3>
+<h3 align="center">Sou um Desenvolvedor Web Fullstack 👨🏻‍💻.</h3>
 
 
 ## 🙋‍♂️ Sobre mim
 
-- 🔭Atualmente trabalho como Estagiário em uma empresa tech de pequeno porte.
+- 🔭Trabalho como Desenvolvedor Fullstack.
 
-- 🌱 Experiência profissional com **Javascript, Vue.Js, Node e outras Stacks**.
+- 🌱 Experiência profissional com **Javascript, Vue.Js, Node, Adonis.Js, Quasar e outras stacks.**
 
-- 👯 Busco colaborar em **Projetos OpenSource** e **atuar como dev. front-end**.
+- 👯 Busco colaborar em **Projetos OpenSource**.
 
 - 📫 Para entrar em contato comigo: **mirodantas27@gmail.com**.
 
