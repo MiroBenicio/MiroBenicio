@@ -53,6 +53,7 @@
 <br/>
 
 <a href="[![MiroBenicio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiroBenicio)](https://github.com/MiroBenicio/github-readme-activity-graph)"><img alt="MiroBenicio Activity Graph" src="[![MiroBenicio github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiroBenicio)](https://github.com/MiroBenicio/github-readme-activity-graph)" /></a>
+[![MiroBenicio github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiroBenicio)](https://github.com/MiroBenicio/github-readme-activity-graph)
 
 <br/>
 <br/>
