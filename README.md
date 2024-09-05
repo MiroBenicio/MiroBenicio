@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/MiroBenicio/github-readme-activity-graph"><img alt="MiroBenicio Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MiroBenicio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="[![MiroBenicio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiroBenicio)](https://github.com/MiroBenicio/github-readme-activity-graph)"><img alt="MiroBenicio Activity Graph" src="[![MiroBenicio github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiroBenicio)](https://github.com/MiroBenicio/github-readme-activity-graph)" /></a>
 
 <br/>
 <br/>
