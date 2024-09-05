@@ -12,7 +12,9 @@
 
 - 🔭 Trabalho como Engenheiro de Software na Tiki, uma startup open-source localizada em Nashville nos Estados Unidos.
 
-- 🌱 Possuo Experiência profissional com o Ecossistema **Javascript**, especial com **Vue.Js** e **Node.Js**, mas já trabalhei e trabalho com uma diversidade de ferramentas.
+- ☀️ Também sou Sócio-Fundador/Recrutador/Desenvolvedor na Alvorada Dev, uma empresa que busca unir talentos brasileiros com startups estadunidenses.
+
+- 🌱 Possuo Experiência profissional com o Ecossistema **Javascript**, especialmente com **Vue.Js** e **Node.Js**, mas já trabalhei e trabalho com uma diversidade de ferramentas.
 
 - 👯 Estou sempre em busca de colaborar em novos projetos e contribuir no **Open Source**.
 
